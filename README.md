@@ -1,25 +1,25 @@
-# 🚗 TollFuel Pro
+#  TollFuel Pro
 
 A smart mobile application that calculates **toll charges, fuel expenses, and total trip cost** in real-time, helping users plan road trips efficiently and manage travel expenses.
 
-## 📌 Overview
+##  Overview
 
 **TollFuel Pro** is a full-stack mobile application built using **Flutter (frontend)** and **Kotlin Spring Boot (backend)**. It enables users to estimate travel costs by combining toll data and fuel consumption, making it ideal for daily commuters, travelers, and fleet managers.
 
 
-## ✨ Features
+##  Features
 
-* 🚧 **Toll Cost Estimation** – Calculates toll charges based on distance and route
-* ⛽ **Fuel Cost Calculator** – Estimates fuel expenses using mileage and fuel price
-* 💰 **Total Trip Cost Breakdown** – Displays combined toll + fuel cost
-* 📊 **Trip History** – Stores and retrieves previous trips
-* 📱 **Cross-Platform UI** – Built with Flutter for smooth mobile experience
-* ⚙️ **REST API Backend** – Kotlin Spring Boot handles business logic
-* 🗄 **Database Integration** – MySQL for persistent storage
+*  **Toll Cost Estimation** – Calculates toll charges based on distance and route
+*  **Fuel Cost Calculator** – Estimates fuel expenses using mileage and fuel price
+*  **Total Trip Cost Breakdown** – Displays combined toll + fuel cost
+*  **Trip History** – Stores and retrieves previous trips
+*  **Cross-Platform UI** – Built with Flutter for smooth mobile experience
+*  **REST API Backend** – Kotlin Spring Boot handles business logic
+*  **Database Integration** – MySQL for persistent storage
 
 ---
 
-## 🏗 Tech Stack
+##  Tech Stack
 
 ### Frontend (Mobile App)
 
@@ -66,7 +66,7 @@ TollFuelPro/
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 🔹 Prerequisites
 
@@ -136,7 +136,7 @@ flutter run
 
 ---
 
-## 🔌 API Endpoints
+##  API Endpoints
 
 ### Calculate Trip Cost
 
@@ -182,9 +182,9 @@ GET /trip/all
 
 ---
 
-## 📱 Emulator Configuration
+##  Emulator Configuration
 
-⚠️ For Android Emulator use:
+ For Android Emulator use:
 
 ```
 http://10.0.2.2:8080
@@ -198,18 +198,17 @@ localhost
 
 ---
 
-## 🚀 Future Enhancements
-
-* 🗺 Google Maps route integration
-* 📍 Live toll detection
-* 🔔 Toll alerts & notifications
-* 🚗 Fleet management system
-* 💳 Payment & subscription system
-* 📊 Advanced analytics dashboard
+##  Future Enhancements
+*  Google Maps route integration
+*  Live toll detection
+*  Toll alerts & notifications
+*  Fleet management system
+*  Payment & subscription system
+*  Advanced analytics dashboard
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. User enters trip details (distance, mileage, fuel price)
 2. Flutter app sends request to backend API
@@ -221,7 +220,7 @@ localhost
 
 ---
 
-## 📊 Use Cases
+##  Use Cases
 
 * Daily commuters
 * Road trip planners
@@ -230,7 +229,7 @@ localhost
 
 ---
 
-## 🤝 Contribution
+##  Contribution
 
 Contributions are welcome!
 
@@ -241,13 +240,13 @@ Contributions are welcome!
 
 ---
 
-## 📄 License
+##  License
 
 This project is open-source and available under the MIT License.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Rika**
 
@@ -256,6 +255,6 @@ This project is open-source and available under the MIT License.
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you like this project, give it a ⭐ on GitHub!
